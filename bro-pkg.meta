@@ -1,0 +1,5 @@
+[package]
+script_dir = bro
+description = Method to Map JA3 fingerprint to HTTP User-Agents.
+tags = broker, Windows, Event Logs, Sysmon, logging
+version = 1.0.0
